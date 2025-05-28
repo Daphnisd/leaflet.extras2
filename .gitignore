@@ -1,0 +1,7 @@
+.Rhistory
+.RData
+.Rproj.user
+newfeatures/
+node_modules/
+docs/
+bower_components/
